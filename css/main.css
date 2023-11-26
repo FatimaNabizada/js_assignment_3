@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(223, 223, 223);
+    text-align: center;
+}
+
+img {
+    height: 350px;
+    width: 100%;
+}
+
+.info {
+    margin-top: 15px;
+    background-color: darkolivegreen;
+    color: whitesmoke;
+    border: 0px;
+    border-radius: 25px;
+    padding: 10px;
+}
